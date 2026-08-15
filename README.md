@@ -122,18 +122,6 @@ Unauthorized scanning or security testing may be illegal and could result in leg
 
 The authors are not responsible for misuse of this project.
 
-## Author
-
-**Roberto Delgado**
-
-*Cybersecurity Engineer*
-
-Cybersecurity professional focused on cloud and infrastructure security, DevSecOps, vulnerability management, and security automation.
-
-This repository is part of my technical portfolio, featuring hands-on projects that demonstrate secure engineering practices across cloud environments, Infrastructure as Code, container security, CI/CD, and security automation.
-
-> **Practical cybersecurity. Secure automation. Continuous learning.**
-
 ---
 
 ## 📄 License
